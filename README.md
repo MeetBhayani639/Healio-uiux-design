@@ -3,7 +3,7 @@ UI/UX Design for Healio – A Healthcare Communication App (Figma)
 This repository contains the UI/UX design for **Healio**, a mobile healthcare application aimed at bridging communication between doctors, hospitals, and patients.
 
 ## 🔗 Figma Prototype
-[View Live Prototype]([https://www.figma.com/file/xxxxxxxx/Healio?type=design&node-id=0-1&mode=design](https://www.figma.com/proto/zFAHadTGEHq7KzzdxXIuHS/Healio?node-id=0-1&t=NqvHX0MvmcPSBECI-1))
+[View Live Prototype](https://www.figma.com/proto/zFAHadTGEHq7KzzdxXIuHS/Healio?node-id=0-1&t=NqvHX0MvmcPSBECI-1)
 
 ## 📌 Project Overview
 - **Purpose**: Simplify healthcare communication
@@ -26,4 +26,4 @@ This repository contains the UI/UX design for **Healio**, a mobile healthcare ap
 
 ## 👤 Designer
 **Meet Bhayani** – UI/UX Designer  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/meet-bhayani-983021193/))
+[LinkedIn](https://www.linkedin.com/in/meet-bhayani-983021193/)
